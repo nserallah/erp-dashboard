@@ -1,0 +1,23 @@
+{
+  "name": "core/account",
+  "description": "This is Account package created by Modular",
+  "type": "library",
+  "require-dev": {
+    "no": "-1",
+    "phplang/scope-exit": "^1.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Core/Account": "src/"
+    }
+  }
+}

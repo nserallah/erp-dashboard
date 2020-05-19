@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+@import "../assets/css/demo1/pages/login/login-6.css";
+@import "../assets/vendors/global/vendors.bundle.rtl.css";
+@import "../assets/css/demo1/style.bundle.rtl.css";
+@import "../assets/css/demo1/skins/header/base/light.rtl.css";
+@import "../assets/css/demo1/skins/header/menu/light.rtl.css";
+@import "../assets/css/demo1/skins/brand/dark.rtl.css";
+@import "../assets/css/demo1/skins/aside/dark.rtl.css";
+
+
+html {
+    direction: rtl !important;
+}
+
+body {
+    direction: rtl !important;
+    font-family: 'Cairo', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, p, span {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+#kt_blockui_1_content {
+    direction: ltr!important;
+}

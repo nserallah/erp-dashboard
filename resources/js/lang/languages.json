@@ -1,0 +1,16 @@
+[
+  {
+    "name": "العربية",
+    "locale": "ar",
+    "direction": "rtl",
+    "is_default": 1,
+    "icon": "\/assets\/media\/flags\/008-saudi-arabia.svg"
+  },
+  {
+    "name": "English",
+    "locale": "en",
+    "direction": "ltr",
+    "is_default": 0,
+    "icon": "\/assets\/media\/flags\/020-flag.svg"
+  }
+]

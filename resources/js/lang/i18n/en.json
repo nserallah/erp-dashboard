@@ -1,0 +1,85 @@
+{
+  "dashboard": "Dashboard",
+  "nationality": "Nationality",
+  "dashboardItems": {
+    "versionOne": "Version One",
+    "versionTwo": "Version Two",
+    "versionThree": "Version Three",
+    "versionFour": "Version Four"
+  },
+  "settings": {
+    "show": "Settings",
+    "constants": {
+      "constants": "Constants",
+      "select_parent": "Select parent",
+      "parent": "Parent",
+      "select_interval": "Select interval"
+    },
+    "country": {
+      "name": "Country Name",
+      "nationality": "Nationality",
+      "postalCode": "Postal Code",
+      "flag": "Flag",
+      "mobilePrefix": "Mobile Prefix"
+    },
+    "city": {
+      "name": "City Name"
+    },
+    "settings": "Settings"
+  },
+  "invoice": {
+    "no": "Invoice No.",
+    "invoice_date": "Invoice Date",
+    "invoice_doc": "Invoice Document"
+  },
+  "company": {
+    "name": "Company Name"
+  },
+  "payment": {
+    "method": "Payment Method",
+    "type": "Process Type",
+    "interval": "Payment Interval"
+  },
+  "planItems": {
+    "name": "Plan Name",
+    "features": "Modules",
+    "pricePerMonth": "Price Per Month",
+    "pricePerYear": "Price Per Year",
+    "pricePerInterval": "Price Per Interval",
+    "planType": "Plan Level",
+    "companyInventoryNo": "Company Inventory No.",
+    "posNo": "POS No.",
+    "employeeNo": "Employees No.",
+    "productsNo": "Products No.",
+    "companyBranchNo": "Branchs No.",
+    "isTrial": "Activate Trail",
+    "maxTrailNo": "Max Trails No.",
+    "trialInterval": "Trial Interval"
+  },
+  "plan": "Plan",
+  "currency": "Currency",
+  "country": "Country",
+  "countries": "Countries",
+  "cities": "Cities",
+  "language": "Language",
+  "username": "Username",
+  "subscription": "Subscription",
+  "validation": {
+    "choose_language_and_insert_value": "Choose the language, then insert the value of input",
+    "field_required": "Field is required",
+    "currency": "Currency",
+    "language": "Language"
+  },
+  "offerItems": {
+    "title": "Offer Title",
+    "startsAt": "Start Date",
+    "endsAt": "End Date",
+    "isActive": "Active Status",
+    "discountPercentagePerMonth": "Discount Percentage Per Month",
+    "discountPercentagePerYear": "Discount Percentage Per Year"
+  },
+  "noRecords": "No Results",
+  "purchase": "Purchase Now",
+  "actions": "Actions",
+  "Name": "Name"
+}

@@ -1,0 +1,27 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import url('https://rawgit.com/lykmapipo/themify-icons/master/css/themify-icons.css');
+@import url('https://fonts.gstatic.com/s/sourcesanspro/v11/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2');
+
+
+
+
+.md-error {
+  color: red !important;
+}
+
+.multiselect__tags {
+  height: calc(1.9695rem + 2px) !important;
+}
+
+
+.form-inline .form-control {
+  display: inline-block;
+  width: 100% !important;
+  vertical-align: middle;
+  background-color: red;
+}

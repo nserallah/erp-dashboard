@@ -66,7 +66,7 @@
     "form-backend-validation": "^2.3.3",
     "inflector-js": "^1.0.1",
     "markdown-it": "^8.4.1",
-    "marked": "^0.6.2",
+    "marked": "^1.1.1",
     "mobile-device-detect": "^0.2.3",
     "moment": "^2.22.2",
     "moment-timezone": "^0.5.21",
